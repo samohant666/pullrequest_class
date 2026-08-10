@@ -15,3 +15,9 @@ def divide(a,b):
 
 def test(a,b):
     return a*b
+
+def some(a):
+    pass
+
+def fast(str):
+    pass
